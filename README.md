@@ -1,5 +1,4 @@
-<img width="653" alt="image" src="https://github.com/Quyen-Ta/Data-Careers-Uncovered-Visualizing-Salary-and-Job-Expectations/assets/128329914/67900fcf-4c51-4d28-9ca5-6abbb71693a8"># Data Careers Uncovered: Visualizing Salary and Job Expectations
-# Data Professional Survey Visualization Project
+# Data Careers Uncovered: Visualizing Salary and Job Expectations 
 
 ## Project Overview
 The project aims to explore and visualize insights from a survey of over 600 professionals working in the field of data. 
