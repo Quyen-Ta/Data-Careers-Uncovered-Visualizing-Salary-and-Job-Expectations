@@ -15,6 +15,7 @@ The survey collected information related to job titles, salaries, favorite progr
 ## Data Visualizations
 The heart of this project lies in the interactive and insightful data visualizations created using PowerBI. The visualizations cover various aspects of the survey, including salary by job title, favorite programming languages, job satisfaction levels and career expectations.
 Due to PowerBI's restriction on public sharing, I have included a screenshot showcasing the visualizations below
+
 <img width="655" alt="image" src="https://github.com/Quyen-Ta/Data-Careers-Uncovered-Visualizing-Salary-and-Job-Expectations/assets/128329914/70c1f197-d7a5-4903-90e3-dc2c2c4f5c67">
 
 ## Acknowledgments
